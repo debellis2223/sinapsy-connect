@@ -40,3 +40,4 @@ Run Mode: Fai testare l'app a 5 persone diverse cercando bug grafici.
 GitHub Docs: Scrivi un README professionale sul repo con le istruzioni e gli screenshot (per eventuali investitori).
 Deployment: Prepara i file .apk o il link web per la presentazione.
 
+h
